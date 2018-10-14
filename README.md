@@ -15,3 +15,6 @@ Open Android Studio
 Click "Open an existing Android Studio Project"
 
 Build the project and run the tests to see if everything is working fine
+
+# Output
+![Image](Screenshot.png)
