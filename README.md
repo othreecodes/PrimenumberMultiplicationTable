@@ -7,9 +7,13 @@ To run this project you need to have:
 # Setup the project
 
 Install the dependencies above
+```sh
 $ git clone git@github.com:othreecodes/PrimenumberMultiplicationTable.git # Clone the project
 
 $ cd PrimenumberMultiplicationTable
+
+$ ./gradlew test #run tests
+```
 
 Open Android Studio
 Click "Open an existing Android Studio Project"
